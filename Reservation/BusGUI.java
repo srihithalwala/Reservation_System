@@ -14,12 +14,12 @@ public class BusGUI {
 	
 	JFrame f; 
 	
-		String hb=new String("C:\\Users\\tejag\\Desktop\\x\\hb.txt");
-		String hc=new String("C:\\Users\\tejag\\Desktop\\x\\hc.txt");
-		String cb=new String("C:\\Users\\tejag\\Desktop\\x\\cb.txt");
-		String ch=new String("C:\\Users\\tejag\\Desktop\\x\\ch.txt");
-		String bh=new String("C:\\Users\\tejag\\Desktop\\x\\bh.txt");
-		String bc=new String("C:\\Users\\tejag\\Desktop\\x\\bc.txt");
+		String hb=new String("C:\\Users\\srihith\\Desktop\\x\\hb.txt");
+		String hc=new String("C:\\Users\\srihith\\Desktop\\x\\hc.txt");
+		String cb=new String("C:\\Users\\srihith\\Desktop\\x\\cb.txt");
+		String ch=new String("C:\\Users\\srihith\\Desktop\\x\\ch.txt");
+		String bh=new String("C:\\Users\\srihith\\Desktop\\x\\bh.txt");
+		String bc=new String("C:\\Users\\srihith\\Desktop\\x\\bc.txt");
 		String source=new String();
 		String destination=new String();
 		int number;
